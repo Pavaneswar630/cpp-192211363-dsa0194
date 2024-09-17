@@ -1,0 +1,32 @@
+#include <iostream>
+
+using namespace std;
+void calculateDiagonalSums(int matrix[3][3], int n, int& primaryDiagonalSum, int& secondaryDiagonalSum) {
+    primaryDiagonalSum = 0;
+    secondaryDiagonalSum = 0;
+
+    for (int i = 0; i < n; ++i) {
+        primaryDiagonalSum += matrix[i][i]; // Sum of primary diagonal
+        secondaryDiagonalSum += matrix[i][n - i - 1]; // Sum of secondary diagonal
+    }
+}
+
+int main() {
+    // Define the matrix size
+    const int n = 3;
+
+    // Initialize a square matrix of size n x n with hardcoded values
+    int matrix[n][n] = {
+        {1, 2, 3},
+        {4, 5, 6},
+        {7, 8, 9}
+    };
+
+    int primaryDiagonalSum, secondaryDiagonalSum;
+    calculateDiagonalSums(matrix, n, primaryDiagonalSum, secondaryDiagonalSum);
+
+    cout << "Sum of primary diagonal: " << primaryDiagonalSum << endl;
+    cout << "Sum of secondary diagonal: " << secondaryDiagonalSum << endl;
+
+    return 0;
+}
