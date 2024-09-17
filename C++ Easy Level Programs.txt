@@ -1,0 +1,100 @@
+1	Two Sum	Not Submitted
+2	Palindrome Number	Not Submitted
+3	Roman to Integer	Not Submitted
+4	Longest Common Prefix	Not Submitted
+5	Valid Parentheses	Not Submitted
+6	Merge Two Sorted Lists	Not Submitted
+7	Remove Duplicates from Sorted Array	Not Submitted
+8	Remove Element	Not Submitted
+9	Find the Index of the First Occurrence in a String	Not Submitted
+10	Search Insert Position	Not Submitted
+11	Length of Last Word	Not Submitted
+12	Plus One	Not Submitted
+13	Add Binary	Not Submitted
+14	Sqrt(x)	Not Submitted
+15	Climbing Stairs	Not Submitted
+16	Remove Duplicates from Sorted List	Not Submitted
+17	Merge Sorted Array	Not Submitted
+18	Binary Tree Inorder Traversal	Not Submitted
+19	Same Tree	Not Submitted
+20	Symmetric Tree	Not Submitted
+21	Maximum Depth of Binary Tree	Not Submitted
+22	Convert Sorted Array to Binary Search Tree	Not Submitted
+23	Balanced Binary Tree	Not Submitted
+24	Minimum Depth of Binary Tree	Not Submitted
+25	Path Sum	Not Submitted
+26	Pascal's Triangle	Not Submitted
+27	Pascal's Triangle II	Not Submitted
+28	Best Time to Buy and Sell Stock	Not Submitted
+29	Valid Palindrome	Not Submitted
+30	Single Number	Not Submitted
+31	Linked List Cycle	Not Submitted
+32	Binary Tree Preorder Traversal	Not Submitted
+33	Binary Tree Postorder Traversal	Not Submitted
+34	Read N Characters Given Read4	Not Submitted
+35	Intersection of Two Linked Lists	Not Submitted
+36	Missing Ranges	Not Submitted
+37	Excel Sheet Column Title	Not Submitted
+38	Majority Element	Not Submitted
+39	Two Sum III - Data structure design	Not Submitted
+40	Excel Sheet Column Number	Not Submitted
+41	Combine Two Tables	Not Submitted
+42	Employees Earning More Than Their Managers	Not Submitted
+43	Duplicate Emails	Not Submitted
+44	Customers Who Never Order	Not Submitted
+45	Reverse Bits	Not Submitted
+46	Number of 1 Bits	Not Submitted
+47	Valid Phone Numbers	Not Submitted
+48	Tenth Line	Not Submitted
+49	Delete Duplicate Emails	Not Submitted
+50	Rising Temperature	Not Submitted
+51	Happy Number	Not Submitted
+52	Remove Linked List Elements	Not Submitted
+53	Isomorphic Strings	Not Submitted
+54	Reverse Linked List	Not Submitted
+55	Contains Duplicate	Not Submitted
+56	Contains Duplicate II	Not Submitted
+57	Implement Stack using Queues	Not Submitted
+58	Invert Binary Tree	Not Submitted
+59	Summary Ranges	Not Submitted
+60	Power of Two	Not Submitted
+61	Implement Queue using Stacks	Not Submitted
+62	Palindrome Linked List	Not Submitted
+63	Valid Anagram	Not Submitted
+64	Shortest Word Distance	Not Submitted
+65	Strobogrammatic Number	Not Submitted
+66	Meeting Rooms	Not Submitted
+67	Binary Tree Paths	Not Submitted
+68	Add Digits	Not Submitted
+69	Ugly Number	Not Submitted
+70	Palindrome Permutation	Not Submitted
+71	Missing Number	Not Submitted
+72	Closest Binary Search Tree Value	Not Submitted
+73	First Bad Version	Not Submitted
+74	Move Zeroes	Not Submitted
+75	Word Pattern	Not Submitted
+76	Nim Game	Not Submitted
+77	Flip Game	Not Submitted
+78	Range Sum Query - Immutable	Not Submitted
+79	Power of Three	Not Submitted
+80	Counting Bits	Not Submitted
+81	Power of Four	Not Submitted
+82	Reverse String	Not Submitted
+83	Reverse Vowels of a String	Not Submitted
+84	Moving Average from Data Stream	Not Submitted
+85	Intersection of Two Arrays	Not Submitted
+86	Intersection of Two Arrays II	Not Submitted
+87	Logger Rate Limiter	Not Submitted
+88	Valid Perfect Square	Not Submitted
+89	Guess Number Higher or Lower	Not Submitted
+90	Ransom Note	Not Submitted
+91	First Unique Character in a String	Not Submitted
+92	Find the Difference	Not Submitted
+93	Is Subsequence	Not Submitted
+94	Binary Watch	Not Submitted
+95	Sum of Left Leaves	Not Submitted
+96	Convert a Number to Hexadecimal	Not Submitted
+97	Valid Word Abbreviation	Not Submitted
+98	Longest Palindrome	Not Submitted
+99	Fizz Buzz	Not Submitted
+100	Third Maximum Number	Not Submitted
