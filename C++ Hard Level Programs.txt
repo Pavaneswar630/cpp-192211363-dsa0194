@@ -1,0 +1,100 @@
+1	Median of Two Sorted Arrays	Not Submitted
+2	Regular Expression Matching	Not Submitted
+3	Merge k Sorted Lists	Not Submitted
+4	Reverse Nodes in k-Group	Not Submitted
+5	Substring with Concatenation of All Words	Not Submitted
+6	Longest Valid Parentheses	Not Submitted
+7	Sudoku Solver	Not Submitted
+8	First Missing Positive	Not Submitted
+9	Trapping Rain Water	Not Submitted
+10	Wildcard Matching	Not Submitted
+11	N-Queens	Not Submitted
+12	N-Queens II	Not Submitted
+13	Permutation Sequence	Not Submitted
+14	Valid Number	Not Submitted
+15	Text Justification	Not Submitted
+16	Edit Distance	Not Submitted
+17	Minimum Window Substring	Not Submitted
+18	Largest Rectangle in Histogram	Not Submitted
+19	Maximal Rectangle	Not Submitted
+20	Scramble String	Not Submitted
+21	Distinct Subsequences	Not Submitted
+22	Best Time to Buy and Sell Stock III	Not Submitted
+23	Binary Tree Maximum Path Sum	Not Submitted
+24	Word Ladder II	Not Submitted
+25	Word Ladder	Not Submitted
+26	Palindrome Partitioning II	Not Submitted
+27	Candy	Not Submitted
+28	Word Break II	Not Submitted
+29	Max Points on a Line	Not Submitted
+30	Find Minimum in Rotated Sorted Array II	Not Submitted
+31	Read N Characters Given read4 II - Call Multiple T	Not Submitted
+32	Maximum Gap	Not Submitted
+33	Dungeon Game	Not Submitted
+34	Department Top Three Salaries	Not Submitted
+35	Best Time to Buy and Sell Stock IV	Not Submitted
+36	Word Search II	Not Submitted
+37	Shortest Palindrome	Not Submitted
+38	The Skyline Problem	Not Submitted
+39	Contains Duplicate III	Not Submitted
+40	Basic Calculator	Not Submitted
+41	Number of Digit One	Not Submitted
+42	Sliding Window Maximum	Not Submitted
+43	Strobogrammatic Number III	Not Submitted
+44	Trips and Users	Not Submitted
+45	Paint House II	Not Submitted
+46	Alien Dictionary	Not Submitted
+47	Closest Binary Search Tree Value II	Not Submitted
+48	Integer to English Words	Not Submitted
+49	Expression Add Operators	Not Submitted
+50	Find Median from Data Stream	Not Submitted
+51	Best Meeting Point	Not Submitted
+52	Serialize and Deserialize Binary Tree	Not Submitted
+53	Remove Invalid Parentheses	Not Submitted
+54	Smallest Rectangle Enclosing Black Pixels	Not Submitted
+55	Number of Islands II	Not Submitted
+56	Range Sum Query 2D - Mutable	Not Submitted
+57	Burst Balloons	Not Submitted
+58	Count of Smaller Numbers After Self	Not Submitted
+59	Shortest Distance from All Buildings	Not Submitted
+60	Create Maximum Number	Not Submitted
+61	Count of Range Sum	Not Submitted
+62	Longest Increasing Path in a Matrix	Not Submitted
+63	Patching Array	Not Submitted
+64	Reconstruct Itinerary	Not Submitted
+65	Self Crossing	Not Submitted
+66	Palindrome Pairs	Not Submitted
+67	Data Stream as Disjoint Intervals	Not Submitted
+68	Russian Doll Envelopes	Not Submitted
+69	Rearrange String k Distance Apart	Not Submitted
+70	Max Sum of Rectangle No Larger Than K	Not Submitted
+71	Insert Delete GetRandom O(1) - Duplicates allowed	Not Submitted
+72	Perfect Rectangle	Not Submitted
+73	Frog Jump	Not Submitted
+74	Trapping Rain Water II	Not Submitted
+75	Split Array Largest Sum	Not Submitted
+76	Minimum Unique Word Abbreviation	Not Submitted
+77	Strong Password Checker	Not Submitted
+78	Word Squares	Not Submitted
+79	Serialize and Deserialize N-ary Tree	Not Submitted
+80	Encode N-ary Tree to Binary Tree	Not Submitted
+81	All O`one Data Structure	Not Submitted
+82	K-th Smallest in Lexicographical Order	Not Submitted
+83	Arithmetic Slices II - Subsequence	Not Submitted
+84	Poor Pigs	Not Submitted
+85	LFU Cache	Not Submitted
+86	Optimal Account Balancing	Not Submitted
+87	Count The Repetitions	Not Submitted
+88	Encode String with Shortest Length	Not Submitted
+89	Concatenated Words	Not Submitted
+90	Largest Palindrome Product	Not Submitted
+91	Sliding Window Median	Not Submitted
+92	Smallest Good Base	Not Submitted
+93	Zuma Game	Not Submitted
+94	Robot Room Cleaner	Not Submitted
+95	Reverse Pairs	Not Submitted
+96	The Maze III	Not Submitted
+97	IPO	Not Submitted
+98	Freedom Trail	Not Submitted
+99	Super Washing Machines	Not Submitted
+100	Word Abbreviation	Not Submitted
