@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int num1, num2;
+
+    // Prompt user for input
+    cout << "Enter the first integer: ";
+    cin >> num1;
+    cout << "Enter the second integer: ";
+    cin >> num2;
+
+    // Swap values using bitwise XOR
+    num1 = num1 ^ num2; // Step 1: num1 now holds the XOR of both
+    num2 = num1 ^ num2; // Step 2: num2 becomes the original num1
+    num1 = num1 ^ num2; // Step 3: num1 becomes the original num2
+
+    // Output the swapped values
+    cout << "After swapping:" << endl;
+    cout << "First integer: " << num1 << endl;
+    cout << "Second integer: " << num2 << endl;
+
+    return 0;
+}
