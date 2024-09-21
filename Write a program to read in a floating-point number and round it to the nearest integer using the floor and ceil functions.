@@ -1,0 +1,25 @@
+#include <iostream>
+#include <cmath> // Include cmath for floor and ceil functions
+using namespace std;
+
+int main() {
+    float number;
+
+    // Prompt user for input
+    cout << "Enter a floating-point number: ";
+    cin >> number;
+
+    // Use floor and ceil functions
+    int roundedDown = floor(number); // Round down
+    int roundedUp = ceil(number);     // Round up
+
+    // Determine the nearest integer
+    int nearestInteger = (number - roundedDown < roundedUp - number) ? roundedDown : roundedUp;
+
+    // Output the results
+    cout << "Rounded down: " << roundedDown << endl;
+    cout << "Rounded up: " << roundedUp << endl;
+    cout << "Nearest integer: " << nearestInteger << endl;
+
+    return 0;
+}
